@@ -1,0 +1,2 @@
+rootProject.name = "TextColor_OnButtonClick"
+include ':app'
